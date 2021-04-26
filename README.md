@@ -2,6 +2,8 @@
 
 Apontamentos da masterclass [Responsividade na Prática](https://www.youtube.com/watch?v=H91DhKPjhPk) realizada pelo Mayk Brito. Nessa pequena aula, desenvolvemos na prática a responsividade numa página utilizando **HTML**, **CSS** e **Javascript**.
 
+___
+
 ## CSS Units
 
 Unidades de medidas do CSS
